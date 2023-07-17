@@ -1,3 +1,3 @@
 # datalis-polyfill
 
-polifyll for html datalist functionality 
+polyfill for html datalist functionality 
